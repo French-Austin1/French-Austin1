@@ -19,9 +19,9 @@ there is always a better way to do it or something new to learn.
 - Ansible
 
 ## <ins> Current Projects </ins>
-- Aline Banking Application
--- [x] Deploy a set of several microservices to AWS Cloud using Docker via ECS and Kubernetes via EKS
--- [x] Create a CI/CD environment built using Jenkins Pipelines and Gitflow version control
--- [x] Smoke testing implemented with python scripting
--- [ ] Auto-provision resources using Terraform
--- [ ] Create deployment strategies for Blue/Green Deployment 
+<ins> Aline Banking Application </ins>
+- [x] Deploy a set of several microservices to AWS Cloud using Docker via ECS and Kubernetes via EKS
+- [x] Create a CI/CD environment built using Jenkins Pipelines and Gitflow version control
+- [x] Smoke testing implemented with python scripting
+- [ ] Auto-provision resources using Terraform
+- [ ] Create deployment strategies for Blue/Green Deployment 
