@@ -17,6 +17,7 @@ there is always a better way to do it or something new to learn.
 - Terratest with Go
 - AWS networking (VPC, Subnets, Security groups, ENI, ELB, etc.)
 - Ansible
+- Rust
 
 ## <ins> Current Projects </ins>
 ### <ins> Aline Banking Application </ins>
